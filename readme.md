@@ -47,7 +47,7 @@
 <p align="center">
   <!-- To make this work, create a repository named 'Voting-Machine' and push your code to it! -->
   <a href="https://github.com/pratha2005/Voting-Machine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratha2005&repo=Voting-Machine&theme=tokyonight" alt="Voting Machine Repo" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pratha2005&repo=Voting-Machine&theme=tokyonight" alt="Voting Machine Repo" />
   </a>
 </p>
 
@@ -76,6 +76,20 @@
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratha2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratha2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratha2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Trophies (Currently broken globally by the creator, you can delete this section if you want) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=pratha2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
 <br>
 
 <h3 align="center">🐍 My Contribution Graph</h3>
