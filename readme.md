@@ -85,11 +85,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratha2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <!-- Trophies (Currently broken globally by the creator, you can delete this section if you want) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pratha2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
 <br>
 
 <h3 align="center">🐍 My Contribution Graph</h3>
