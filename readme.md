@@ -45,8 +45,8 @@
   Developed a GUI-Based application that allows users to cast votes securely. Includes features for candidate selection, vote submission, and result display in a user-friendly environment.
 
 <p align="center">
-  <!-- To make this work, create a repository named 'Voting-Machine' and push your code to it! -->
-  <a href="https://github.com/Pratha2005/PyVote.git">
+  <a href="https://github.com/Pratha2005/PyVote">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratha2005&repo=PyVote&theme=tokyonight&hide_border=true" alt="PyVote Repository Card" />
   </a>
 </p>
 
@@ -79,6 +79,7 @@
 <p align="center">
   <!-- Overall Stats -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratha2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+</p>
 
 <br>
 
