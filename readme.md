@@ -80,10 +80,6 @@
 <p align="center">
   <!-- Overall Stats -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratha2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pratha2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
 
 <br>
 
