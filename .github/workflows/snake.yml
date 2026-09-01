@@ -1,38 +1,15 @@
-name: Generate Snake Animation
-
-on:
-  # Run automatically every day at midnight
-  schedule:
-    - cron: "0 0 * * *" 
-  
-  # Allows you to manually run the job at any time
-  workflow_dispatch:
-  
-  # Run on every push to the main branch
-  push:
-    branches:
-    - main
+# Add this block at the top level of your workflow file...
+permissions:
+  contents: write 
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+    # ... OR add it directly under your job like this:
+    # permissions:
+    #   contents: write
     steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      # ... your steps ...
+      - name: Deploy
         uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # ...
