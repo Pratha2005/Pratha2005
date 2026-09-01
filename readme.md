@@ -73,12 +73,12 @@
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratha2005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratha2005&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratha2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pratha2005&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
 </p>
 
 <br>
