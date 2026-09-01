@@ -47,7 +47,6 @@
 <p align="center">
   <!-- To make this work, create a repository named 'Voting-Machine' and push your code to it! -->
   <a href="https://github.com/Pratha2005/PyVote.git">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pratha2005&repo=Voting-Machine&theme=tokyonight" alt="Voting Machine Repo" />
   </a>
 </p>
 
