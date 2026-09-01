@@ -1,15 +1,5 @@
-# Add this block at the top level of your workflow file...
-permissions:
-  contents: write 
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    # ... OR add it directly under your job like this:
-    # permissions:
-    #   contents: write
-    steps:
-      # ... your steps ...
-      - name: Deploy
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        # ...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratha2005/Pratha2005/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratha2005/Pratha2005/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pratha2005/Pratha2005/output/github-contribution-grid-snake.svg">
+</picture>
