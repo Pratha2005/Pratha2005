@@ -49,6 +49,7 @@
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pratha2005&repo=PyVote&theme=tokyonight&hide_border=true" alt="PyVote Repository Card" />
   </a>
 </p>
+
 <br>
 
 ## 🏆 Certifications
