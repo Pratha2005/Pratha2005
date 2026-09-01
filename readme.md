@@ -86,12 +86,11 @@
 <h3 align="center">🐍 My Contribution Graph</h3>
 <p align="center">
   <!-- The Snake Animation (Requires GitHub Action setup to generate the SVG) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratha2005/pratha2005/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratha2005/pratha2005/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratha2005/pratha2005/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pratha2005/Pratha2005/output/github-contribution-grid-snake-dark.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pratha2005/Pratha2005/output/github-contribution-grid-snake.svg?v=1">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pratha2005/Pratha2005/output/github-contribution-grid-snake.svg?v=1">
+</picture>
 
 <br>
 
